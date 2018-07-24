@@ -1,0 +1,17 @@
+*[parallax] {
+    width: 90vw;
+    height: 90vh;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#first-page {
+    background-image: url('../assets/nature.jpg');
+    background-attachment: fixed;
+    
+}
+#second-page {
+    background-image: url('https://www.planwallpaper.com/static/images/4443577-scenery-wallpapers.jpg')
+}
